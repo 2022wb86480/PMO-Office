@@ -1,0 +1,4 @@
+Project Planning Document
+Phase 1: Requirement Analysis
+Phase 2: Development
+Phase 3: Testing
